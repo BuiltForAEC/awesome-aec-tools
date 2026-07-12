@@ -98,6 +98,7 @@ Maintained by [BuiltForAEC](https://github.com/BuiltForAEC) · Paris
 - [OpenSees](https://github.com/OpenSees/OpenSees) — Structural analysis framework
 - [Frame3DD](https://github.com/unrealsolver/frame3dd) — Structural frame analysis
 - [ETABS/SAP2000 API wrappers](https://github.com/search?q=etabs+api) — Community tools
+- [Concrete Calculator Hub](https://concreteestimatorhub.com/) — Free concrete volume, bag coverage, footing, slab, and ready-mix cost calculators for AEC quantity planning
 
 ---
 
